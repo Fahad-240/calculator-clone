@@ -1,0 +1,57 @@
+body {
+    background-color: rgba(255, 192, 203, 0.281);
+}
+
+.container {
+    width: 177px;
+    position: relative;
+}
+
+.input {
+    background-color: rgba(128, 128, 128, 0.219);
+    position: absolute;
+    left: 519px;
+    top: -37px;
+    border: 1px solid rgba(128, 128, 128, 0.219);
+    border-radius: 8px 8px 0px 0px;
+    padding: 10px;
+}
+
+table {
+    width: 252px;
+    height: 270px;
+    border: 1px solid black;
+    border-radius: 0px 0px 8px 8px;
+    padding: 5px;
+    background-color: rgba(128, 128, 128, 0.164);
+    margin-left: 520px;
+    margin-top: 240px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+th {
+    border: 1px solid grey;
+    border-radius: 8px;
+    background-color: gray;
+}
+
+button {
+    padding: 10px;
+    border: 1px solid rgb(255, 166, 0, 0.568);
+    width: 40px;
+    background-color: gray;
+    font-size: 18px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    /* background-color: blue; */
+}
+
+.color {
+    color: white;
+    background-color: rgba(255, 166, 0, 0.568);
+}
+
+.color2 {
+    border: 1px solid gray;
+}
